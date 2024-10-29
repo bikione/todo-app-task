@@ -1,0 +1,119 @@
+# .NET Core / .NET Framework
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.log
+*.vspscc
+*.vssscc
+
+# Build results
+*.appx
+*.appxbundle
+*.builds
+*.ipa
+*.msix
+*.msixbundle
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.vsix
+*.vspx
+*.vsto
+*.xap
+
+# Debug/Release folders
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+
+# Visual Studio folder
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local History for Visual Studio
+.localhistory/
+
+# Mac (OSX) files
+.DS_Store
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.sln.iml
+*.sln.ninja
+*.sln.*
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Dotnet user secrets
+secrets.json
+
+# Resharper and Rider settings
+_ReSharper.Caches/
+*.DotSettings.user
+*.sln.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# OS generated files
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+
+# IDEs, editors, and system generated files
+.env
+.idea/
+.project
+.classpath
+*.dbmdl
+
+# Code coverage results
+coverage/
+*.coverage
+*.coveragexml
+*.cobertura.xml
+
+# Entity Framework Core migrations history
+Migrations/
+
+# Additional files and directories for various .NET projects
+TestResults/
+ServiceFabricLocalCluster/
+
+# Rider plugin files and caches
+.idea/
+ReSharperHost/
+
+# Optional: Uncomment if using .NET Core with Docker
+# docker-compose.override.yml
+
+# Optional: Windows-specific temporary files
+*.suo
+*.tmp
+*.bak
+*.swp
+*.sln.docstates
+
